@@ -1,0 +1,201 @@
+product_id,product_name,category_id,price,sku
+1,Heritage Pet Bed,3,223.47,SKU00001
+2,Classic Garden Hose,11,97.68,SKU00002
+3,Heritage Cookware Set,5,434.95,SKU00003
+4,Essential Gaming Mouse,3,394.96,SKU00004
+5,Essential Blender,5,371.29,SKU00005
+6,Compact Air Purifier,3,444.16,SKU00006
+7,Essential Wireless Charger,2,428.37,SKU00007
+8,Deluxe Sneakers,9,242.12,SKU00008
+9,Premium Cookware Set,5,123.13,SKU00009
+10,Eco Air Purifier,8,130.83,SKU00010
+11,Eco Yoga Mat,3,55.57,SKU00011
+12,Smart Backpack,9,358.74,SKU00012
+13,Signature Wireless Charger,1,438.80,SKU00013
+14,Ultra Pet Bed,3,396.41,SKU00014
+15,Compact Yoga Mat,3,123.51,SKU00015
+16,Signature Pet Bed,3,477.63,SKU00016
+17,Wireless Speaker,7,243.74,SKU00017
+18,Deluxe Desk Lamp,8,405.15,SKU00018
+19,Smart Jacket,4,354.96,SKU00019
+20,Eco Camera,8,132.15,SKU00020
+21,Ultra Garden Hose,8,307.56,SKU00021
+22,Portable Camera,7,334.58,SKU00022
+23,Durable Sneakers,3,135.87,SKU00023
+24,Portable Pet Bed,3,168.84,SKU00024
+25,Premium Sunglasses,6,368.42,SKU00025
+26,Heritage Backpack,12,343.10,SKU00026
+27,Signature Backpack,5,59.96,SKU00027
+28,Portable Water Bottle,5,299.46,SKU00028
+29,Heritage Wireless Charger,3,291.70,SKU00029
+30,Classic Desk Lamp,8,234.10,SKU00030
+31,Heritage Headphones,7,39.90,SKU00031
+32,Compact Wireless Charger,6,159.51,SKU00032
+33,Compact Blender,6,152.15,SKU00033
+34,Premium Air Purifier,2,473.38,SKU00034
+35,Deluxe Air Purifier,3,95.17,SKU00035
+36,Premium Camera,8,461.17,SKU00036
+37,Signature Yoga Mat,12,312.43,SKU00037
+38,Wireless Pet Bed,1,56.92,SKU00038
+39,Premium Notebook,4,102.98,SKU00039
+40,Durable Pet Bed,9,282.38,SKU00040
+41,Classic Camera,4,202.36,SKU00041
+42,Classic Speaker,4,280.13,SKU00042
+43,Deluxe Pet Bed,8,46.16,SKU00043
+44,Classic Sunglasses,10,356.30,SKU00044
+45,Premium Wireless Charger,10,163.55,SKU00045
+46,Essential Yoga Mat,5,286.30,SKU00046
+47,Premium Pet Bed,6,162.65,SKU00047
+48,Vintage Sneakers,3,440.40,SKU00048
+49,Deluxe Blender,9,241.32,SKU00049
+50,Classic Wireless Charger,9,337.48,SKU00050
+51,Portable Wireless Charger,9,18.32,SKU00051
+52,Compact Sunglasses,1,421.59,SKU00052
+53,Compact Cookware Set,5,494.76,SKU00053
+54,Premium Cookware Set,2,230.96,SKU00054
+55,Eco Backpack,10,486.81,SKU00055
+56,Portable Air Purifier,3,34.05,SKU00056
+57,Ultra Drill Kit,6,426.26,SKU00057
+58,Modern Jacket,12,318.61,SKU00058
+59,Deluxe Water Bottle,3,46.35,SKU00059
+60,Essential Jacket,1,197.31,SKU00060
+61,Eco Speaker,4,32.46,SKU00061
+62,Ultra Camera,9,265.98,SKU00062
+63,Signature Drill Kit,8,171.01,SKU00063
+64,Premium Coffee Maker,5,238.94,SKU00064
+65,Signature Speaker,11,222.53,SKU00065
+66,Smart Backpack,6,291.36,SKU00066
+67,Heritage Gaming Mouse,12,293.18,SKU00067
+68,Heritage Gaming Mouse,6,127.43,SKU00068
+69,Wireless Sunglasses,6,345.31,SKU00069
+70,Smart Blender,12,283.20,SKU00070
+71,Classic Sneakers,10,123.26,SKU00071
+72,Durable Camera,6,72.23,SKU00072
+73,Classic Air Purifier,11,198.75,SKU00073
+74,Smart Jacket,10,475.32,SKU00074
+75,Compact Water Bottle,12,295.91,SKU00075
+76,Ultra Jacket,1,481.32,SKU00076
+77,Signature Cookware Set,10,290.04,SKU00077
+78,Smart Speaker,2,444.86,SKU00078
+79,Deluxe Gaming Mouse,6,341.25,SKU00079
+80,Portable Water Bottle,1,98.57,SKU00080
+81,Signature Pet Bed,11,292.16,SKU00081
+82,Premium Yoga Mat,2,159.66,SKU00082
+83,Portable Cookware Set,6,255.90,SKU00083
+84,Vintage Speaker,10,105.55,SKU00084
+85,Deluxe Jacket,6,248.80,SKU00085
+86,Wireless Blender,10,95.23,SKU00086
+87,Durable Cookware Set,7,211.03,SKU00087
+88,Deluxe Notebook,4,79.34,SKU00088
+89,Premium Water Bottle,8,344.30,SKU00089
+90,Compact Drill Kit,2,176.55,SKU00090
+91,Portable Notebook,12,297.46,SKU00091
+92,Eco Pet Bed,5,459.80,SKU00092
+93,Heritage Sunglasses,4,85.37,SKU00093
+94,Modern Blender,8,118.15,SKU00094
+95,Heritage Jacket,2,451.90,SKU00095
+96,Signature Air Purifier,11,232.68,SKU00096
+97,Essential Blender,9,360.31,SKU00097
+98,Smart Camera,3,471.49,SKU00098
+99,Essential Water Bottle,6,338.41,SKU00099
+100,Eco Backpack,4,96.01,SKU00100
+101,Eco Sunglasses,1,241.51,SKU00101
+102,Durable Garden Hose,6,311.31,SKU00102
+103,Portable Drill Kit,3,406.04,SKU00103
+104,Heritage Blender,2,207.69,SKU00104
+105,Compact Sunglasses,9,274.21,SKU00105
+106,Portable Sneakers,10,53.33,SKU00106
+107,Modern Air Purifier,11,53.60,SKU00107
+108,Wireless Jacket,11,344.05,SKU00108
+109,Ultra Yoga Mat,9,424.29,SKU00109
+110,Vintage Water Bottle,3,288.52,SKU00110
+111,Durable Speaker,2,344.54,SKU00111
+112,Modern Camera,3,111.14,SKU00112
+113,Ultra Desk Lamp,6,345.06,SKU00113
+114,Heritage Camera,2,169.23,SKU00114
+115,Eco Drill Kit,5,87.03,SKU00115
+116,Deluxe Camera,10,354.62,SKU00116
+117,Classic Wireless Charger,11,115.51,SKU00117
+118,Vintage Garden Hose,3,117.19,SKU00118
+119,Deluxe Pet Bed,12,401.58,SKU00119
+120,Ultra Garden Hose,1,23.59,SKU00120
+121,Classic Speaker,11,382.99,SKU00121
+122,Smart Coffee Maker,10,278.01,SKU00122
+123,Vintage Headphones,8,416.01,SKU00123
+124,Durable Camera,11,202.98,SKU00124
+125,Wireless Desk Lamp,11,271.13,SKU00125
+126,Smart Jacket,2,456.28,SKU00126
+127,Premium Water Bottle,8,277.38,SKU00127
+128,Wireless Jacket,4,227.94,SKU00128
+129,Vintage Yoga Mat,6,475.78,SKU00129
+130,Ultra Cookware Set,7,90.69,SKU00130
+131,Portable Cookware Set,9,373.08,SKU00131
+132,Classic Air Purifier,4,310.70,SKU00132
+133,Classic Notebook,8,167.47,SKU00133
+134,Modern Backpack,1,195.19,SKU00134
+135,Compact Pet Bed,7,167.70,SKU00135
+136,Signature Water Bottle,6,383.59,SKU00136
+137,Essential Air Purifier,4,109.42,SKU00137
+138,Wireless Wireless Charger,8,331.86,SKU00138
+139,Heritage Camera,8,20.18,SKU00139
+140,Classic Gaming Mouse,9,304.65,SKU00140
+141,Eco Coffee Maker,10,236.27,SKU00141
+142,Premium Speaker,5,329.33,SKU00142
+143,Vintage Sunglasses,5,356.72,SKU00143
+144,Premium Backpack,7,92.77,SKU00144
+145,Heritage Notebook,12,244.71,SKU00145
+146,Portable Gaming Mouse,6,34.65,SKU00146
+147,Compact Speaker,10,373.19,SKU00147
+148,Eco Cookware Set,9,194.13,SKU00148
+149,Classic Gaming Mouse,9,300.14,SKU00149
+150,Portable Drill Kit,5,413.44,SKU00150
+151,Deluxe Pet Bed,2,89.32,SKU00151
+152,Classic Gaming Mouse,6,227.22,SKU00152
+153,Durable Cookware Set,3,135.45,SKU00153
+154,Vintage Wireless Charger,7,332.73,SKU00154
+155,Premium Speaker,1,94.80,SKU00155
+156,Essential Air Purifier,8,345.34,SKU00156
+157,Wireless Yoga Mat,10,342.84,SKU00157
+158,Modern Air Purifier,10,213.75,SKU00158
+159,Modern Gaming Mouse,10,489.52,SKU00159
+160,Signature Camera,10,225.44,SKU00160
+161,Durable Wireless Charger,9,326.02,SKU00161
+162,Essential Garden Hose,5,316.22,SKU00162
+163,Signature Headphones,6,222.08,SKU00163
+164,Deluxe Backpack,7,387.53,SKU00164
+165,Smart Headphones,10,316.02,SKU00165
+166,Smart Garden Hose,10,154.12,SKU00166
+167,Essential Speaker,10,319.86,SKU00167
+168,Modern Wireless Charger,11,477.63,SKU00168
+169,Vintage Gaming Mouse,3,451.12,SKU00169
+170,Eco Speaker,10,464.09,SKU00170
+171,Classic Coffee Maker,1,294.03,SKU00171
+172,Ultra Sneakers,3,275.63,SKU00172
+173,Essential Coffee Maker,7,333.87,SKU00173
+174,Portable Pet Bed,8,487.23,SKU00174
+175,Essential Speaker,12,95.49,SKU00175
+176,Durable Coffee Maker,9,218.02,SKU00176
+177,Deluxe Sunglasses,9,251.95,SKU00177
+178,Ultra Water Bottle,8,354.39,SKU00178
+179,Ultra Drill Kit,6,447.93,SKU00179
+180,Portable Notebook,10,322.31,SKU00180
+181,Eco Desk Lamp,5,370.74,SKU00181
+182,Smart Desk Lamp,5,194.40,SKU00182
+183,Essential Coffee Maker,12,467.02,SKU00183
+184,Wireless Air Purifier,8,233.59,SKU00184
+185,Durable Notebook,5,84.87,SKU00185
+186,Vintage Drill Kit,7,263.56,SKU00186
+187,Signature Cookware Set,3,195.35,SKU00187
+188,Premium Camera,12,56.79,SKU00188
+189,Ultra Jacket,11,173.06,SKU00189
+190,Essential Sunglasses,4,137.42,SKU00190
+191,Signature Drill Kit,5,373.32,SKU00191
+192,Essential Notebook,3,76.58,SKU00192
+193,Vintage Garden Hose,4,163.89,SKU00193
+194,Premium Wireless Charger,4,423.08,SKU00194
+195,Eco Speaker,2,275.86,SKU00195
+196,Ultra Sunglasses,2,451.42,SKU00196
+197,Portable Yoga Mat,1,365.67,SKU00197
+198,Heritage Water Bottle,7,432.87,SKU00198
+199,Heritage Sunglasses,8,431.33,SKU00199
+200,Eco Camera,6,192.04,SKU00200
